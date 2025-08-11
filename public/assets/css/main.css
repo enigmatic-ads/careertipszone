@@ -1140,7 +1140,7 @@ section,
 /*--------------------------------------------------------------
 # Lifestyle Category Section
 --------------------------------------------------------------*/
-.ai-category .post-meta {
+.music-category .post-meta {
   font-size: 11px;
   letter-spacing: 0.07rem;
   text-transform: uppercase;
@@ -1149,52 +1149,52 @@ section,
   margin-bottom: 10px;
 }
 
-.ai-category .author .photo {
+.music-category .author .photo {
   margin-right: 10px;
 }
 
-.ai-category .author .photo img {
+.music-category .author .photo img {
   width: 40px;
   border-radius: 50%;
   margin-bottom: 0;
 }
 
-.ai-category .author .name h3 {
+.music-category .author .name h3 {
   margin: 0;
   padding: 0;
   font-size: 15px;
   font-family: var(--default-font);
 }
 
-.ai-category .custom-border,
-.ai-category .border-bottom {
+.music-category .custom-border,
+.music-category .border-bottom {
   border-color: color-mix(in srgb, var(--default-color), transparent 90%) !important;
 }
 
-.ai-category .post-list {
+.music-category .post-list {
   margin-bottom: 30px;
 }
 
-.ai-category .post-list img {
+.music-category .post-list img {
   margin-bottom: 30px;
 }
 
-.ai-category .post-list h2 {
+.music-category .post-list h2 {
   margin-bottom: 20px;
   font-size: 20px;
   font-weight: 600;
   line-height: 1.2;
 }
 
-.ai-category .post-list h2 a {
+.music-category .post-list h2 a {
   color: var(--heading-color);
 }
 
-.ai-category .post-list h2 a:hover {
+.music-category .post-list h2 a:hover {
   text-decoration: underline;
 }
 
-.ai-category .post-list.lg h2 {
+.music-category .post-list.lg h2 {
   font-size: 40px;
   line-height: 1;
 }
